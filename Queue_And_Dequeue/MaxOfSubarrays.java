@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 class Solution {
     /**
      * Finds the maximum of each subarray of size k in the given array.
